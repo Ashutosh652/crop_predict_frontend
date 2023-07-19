@@ -1,4 +1,4 @@
-Frontend to use our trained random forest model for crop production prediction.
+Frontend to use our trained random forest model for crop production prediction.<br><br>
 #Screenshots:
 ![image](https://github.com/Ashutosh652/crop_predict_frontend/assets/79498496/956f817c-85f7-4d84-a856-bed281158d11)
 ![image](https://github.com/Ashutosh652/crop_predict_frontend/assets/79498496/5ecd5d49-b6f3-4da4-b116-ddcdf50455da)
