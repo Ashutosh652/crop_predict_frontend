@@ -1,4 +1,4 @@
-Project Synopsis on
+Project Report on
 **Crop Yield Prediction Using Machine Learning**
 
 
